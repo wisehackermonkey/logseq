@@ -1,0 +1,2 @@
+# logseq
+my personal notes
